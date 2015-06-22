@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Professor Information</string>
+    <string name="name">ListViewBaseAdapter</string>
+    <string name="image">Thumbnail</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="profListCoe">
+        <item>Dhruv Mullick</item>
+    </string-array>
+    <string-array name="profListEce">
+        <item>Arpit Bajaj</item>
+    </string-array>
+</resources>
